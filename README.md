@@ -13,6 +13,7 @@ Here are some stats and tools I use:
 <h3>𝖳𝗈𝗈𝗅𝗌</h3>
 <p>
   <img src="https://user-images.githubusercontent.com/80278171/172349447-93606414-bcd6-4a80-8e62-07b93e30e2a3.png" width="50">
+  <img src="https://user-images.githubusercontent.com/80278171/172356513-fb57a088-61b6-43c9-bf3b-f387cf7f0fa7.png" height="50">
 </p>
 <h3>𝖲𝗍𝖺𝗍𝗌</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=PixelPage-YT&count_private=true&show_owner=true&show_icons=true&bg_color=17224B&title_color=ffffff&text_color=ffffff&icon_color=8FD6E1&hide_border=true&locale=de">
