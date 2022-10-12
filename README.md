@@ -1,8 +1,8 @@
 <img src="https://user-images.githubusercontent.com/80278171/172330508-7c32c498-698b-42ac-81d1-1269ed66c275.png">
 <h3>𝖠𝖻𝗈𝗎𝗍 𝗆𝖾</h3>
 <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" width="200">
-I'm a student and software developer, mainly interested in things related with JavaScript. 
-I'm therefor looking forward to participate in a Mini-Job in order to use my skills.
+I'm a student and software developer, mainly interested in things related with JavaScript / TypeScript and Web Developement. 
+I'm looking forward to participate in a project in order to use and upgrade my skills.
 Here are some stats and tools I use:
 <h3>𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌 𝖺𝗇𝖽 𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄𝗌</h3>
 <p>
