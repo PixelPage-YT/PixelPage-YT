@@ -3,7 +3,9 @@
 <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" width="200">
 I'm a student and software developer, mainly interested in things related with JavaScript / TypeScript and Web Developement. 
 I'm looking forward to participate in a project in order to use and upgrade my skills.
+
 Visit https://github.com/Folizza-Studios to see my projects.
+
 Here are some stats and tools I use:
 <h3>𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌 𝖺𝗇𝖽 𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄𝗌</h3>
 <p>
