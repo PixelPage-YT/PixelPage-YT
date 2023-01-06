@@ -16,9 +16,7 @@ Here are some stats and tools I use:
   <img src="https://user-images.githubusercontent.com/80278171/172356513-fb57a088-61b6-43c9-bf3b-f387cf7f0fa7.png" height="50">
 </p>
 <h3>𝖲𝗍𝖺𝗍𝗌</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=PixelPage-YT&count_private=true&show_owner=true&show_icons=true&bg_color=17224B&title_color=ffffff&text_color=ffffff&icon_color=8FD6E1&hide_border=true&locale=de">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PixelPage-YT&hide_border=true&background=17224B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=8FD6E1&ring=8FD6E1&stroke=FFFFFFFF&locale=de">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelPage-YT&layout=default&card_width=445&bg_color=17224B&title_color=ffffff&text_color=ffffff&icon_color=8FD6E1&hide_border=true&exclude_repo=SwordFish,DungeonCraft&count_private&locale=de">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PixelPage-YT&hide_border=true&background=17224B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=8FD6E1&ring=8FD6E1&stroke=FFFFFFFF&locale=en">
 <h3>𝖥𝗎𝗇 𝖥𝖺𝖼𝗍𝗌</h3>
 - Reload is the best tool in Visual Studio Code<br>
 - JSON is the best database
