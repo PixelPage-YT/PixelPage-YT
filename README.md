@@ -20,6 +20,3 @@ Here are some stats and tools I use:
 </p>
 <h3>𝖲𝗍𝖺𝗍𝗌</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PixelPage-YT&hide_border=true&background=17224B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=8FD6E1&ring=8FD6E1&stroke=FFFFFFFF&locale=en">
-<h3>𝖥𝗎𝗇 𝖥𝖺𝖼𝗍𝗌</h3>
-- Reload is the best tool in Visual Studio Code<br>
-- JSON is the best database
